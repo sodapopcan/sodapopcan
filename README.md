@@ -5,4 +5,4 @@
 🔍 I'm currently open to new opportunities.  I highly value participating in
 collaborative environments.
 
-‼️ My little green boxes down there only represent my public contributions.
+🟢 My little green boxes down there only represent my public contributions.

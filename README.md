@@ -1,1 +1,1 @@
-<div style="border: 1px solid black"></div>
+Green boxes represent public contributions only.

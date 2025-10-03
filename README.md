@@ -1,1 +1,1 @@
-Green boxes represent public contributions only.
+Little green boxes represent public contributions only.
